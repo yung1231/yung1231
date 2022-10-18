@@ -1,4 +1,6 @@
-### Hi there 👋
+Welcome to know whoami 👋
+
+わくわく (๑´ㅂ`๑) 
 
 <!--
 **yung1231/yung1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +18,6 @@ Here are some ideas to get you started:
 -->
 
 [![yung1231's github stats](https://github-readme-stats.vercel.app/api?username=yung1231&theme=tokyonight)](https://github.com/yung1231/github-readme-stats)  
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yung1231&layout=compact&theme=tokyonight)](https://github.com/yung1231/github-readme-stats)
+-->
